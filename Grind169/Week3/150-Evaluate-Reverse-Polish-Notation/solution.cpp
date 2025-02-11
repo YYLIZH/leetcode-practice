@@ -48,6 +48,6 @@ public:
             }
         }
 
-        return numbers.top()
+        return numbers.top();
     }
 };
